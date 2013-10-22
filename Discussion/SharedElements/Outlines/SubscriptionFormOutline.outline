@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='filter' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='80257BE9004A1ADD'>
+<noteinfo noteid='5fa' unid='D8209DCB3A7827E085256691005085FC' sequence='6'>
+<created><datetime dst='true'>19981002T103931,80-04</datetime></created>
+<modified><datetime dst='true'>20130917T143148,41+01</datetime></modified>
+<revised><datetime dst='true'>20130917T143148,40+01</datetime></revised>
+<lastaccessed><datetime dst='true'>20130917T143148,41+01</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20130917T142943,55+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=jonathan/O=ibm</name></updatedby>
+<wassignedby><name>CN=jonathan/O=ibm</name></wassignedby>
+<item name='$TITLE' sign='true'><textlist><text>SubscriptionFormOutline</text><text
+>SubscriptionFormOutline</text></textlist></item>
+<item name='$LANGUAGE'><text>en</text></item>
+<item name='$DesignerVersion'><text>7</text></item>
+<item name='$SiteMapList' sign='true'>
+<rawitemdata type='1a'>
+AQYBAAEAAgBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAACAEgAaQAACAAAZAAAAAAAAAAHAAAAYgAAAAAAAAAAAAAAAAAAAAAA
+BQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFRm9ybQABAPb/YAABAAAABQAAAEYA
+AAAAAAAAAAAAAAAARgADABwACgAkTWFpblRhYmxlAQAGAGJhc2ljcwMABwAMAAUACTFTM1MAAAAS
+AAIAXhsAAAAAAADtAQMABwAKAAMACTBSAEgAZwAACAAAZQAAAAAAAAAHAAAAYAAAAAAAAAAAAAAA
+AAAAAAAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFSW5mbwABAPb/XgABAAAA
+BQAAAEQAAAAAAAAAAAAAAAAARAADABoACgAkTWFpblRhYmxlAQAEAGluZm8DAAcADAAFAAkxUzNT
+AAAAEgACAF4bAAAAAAAA7QEDAAcACgADAAkwUgA=
+</rawitemdata></item>
+<item name='$Flags'><text>mw34</text></item></note>
+

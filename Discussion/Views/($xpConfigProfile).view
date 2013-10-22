@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='80257BE9004A1ADD'>
+<noteinfo noteid='5ce' unid='55ABB9DA3E0308808525745F0018A2A7' sequence='6'>
+<created><datetime dst='true'>20080605T002905,03-04</datetime></created>
+<modified><datetime dst='true'>20130917T143147,97+01</datetime></modified>
+<revised><datetime dst='true'>20130917T143147,96+01</datetime></revised>
+<lastaccessed><datetime dst='true'>20130917T143147,97+01</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20130917T142943,11+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=jonathan/O=ibm</name></updatedby>
+<wassignedby><name>CN=jonathan/O=ibm</name></wassignedby>
+<item name='$LANGUAGE' sign='true'><text>en</text></item>
+<item name='$FormulaClass' sign='true'><text>1</text></item>
+<item name='$V5ACTIONS' sign='true'>
+<rawitemdata type='1'>
+vRwAAAAAAQAAAAAAAAAAAAAAAAABAAAJAAAAAHn/bAAJAAAAAAABAAAAAAABAAAAAAABAMDAwAAA
+AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAQAAAAAAAQAAAAAAAAAAAAwAAAAAAAAAAAAA
+AAAAAAAAAAUA////AAAAAAAAAAAAAAA=
+</rawitemdata></item>
+<item name='$TITLE' sign='true'><text>($xpConfigProfile)|xpConfigProfile</text></item>
+<item name='$Index' sign='true'><text/></item>
+<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
+dAAFADoANgAEAA4ACQAKAAkAQXR0YWNobWVudE5hbWVJbWFnZVRleHRGb290ZXJUZXh0JENvbmZs
+aWN0BAAEAAAAJgAFAAQAZm9ybQEADwB4cENvbmZpZ1Byb2ZpbGUACgIEAAMABwAOAAgACUwxUzNT
+NFM=
+</formula></item>
+<item name='$Collation' summary='true'>
+<rawitemdata type='2'>
+BgAAAABE
+</rawitemdata></item>
+<item name='$ViewFormat' summary='true' sign='true'>
+<rawitemdata type='5'>
+AQADAAAAjgwAAFZDAAAOAA4AAAAAAHgAAQAACQAAAAAAAAAAAAICAAAAVkMAAAkACQAAAAAAeAAB
+AAAKAAAAAAAAAAAAAgIAAABWQwAACgAKAAAAAADwAAEAAAoAAAAAAAAAAAACAgAAAEF0dGFjaG1l
+bnROYW1lQXR0YWNobWVudE5hbWVJbWFnZVRleHRJbWFnZVRleHRGb290ZXJUZXh0Rm9vdGVyVGV4
+dCYAAQAAAAEBAAkBAAgKAQEECgAAPwCtKwIAAQABAAAAAAAAAAAAV0MBAAAJAAAAAAAAAAAAAAAA
+AAAAAAAABAAAAAAA//8AAAAAAAAAAAAAAAAAAFdDAQAACQAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA
+AP//AAAAAAAAAAAAAAAAAABXQwEAAAkAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAD//wAAAAAAAAAA
+AAAAAAAAQgAAAAAAAQD///8AAQDv7+8AAQAAAAAAAAAAAAAAAQABAP///wABALTVxQAAAAEAgAAA
+AAEAAAD/AAEAAAAAAAAACAAAAAAAAQA=
+</rawitemdata></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item>
+<item name='$Flags'><text>Y</text></item>
+<item name='$WebFlags'><text>S</text></item></note>
+

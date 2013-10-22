@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='80257BE9004A1ADD'>
+<noteinfo noteid='8a6' unid='5A5111854D3EA8C4882569ED000E0612' sequence='6'>
+<created><datetime>20010207T183310,58-08</datetime></created>
+<modified><datetime dst='true'>20130917T143153,20+01</datetime></modified>
+<revised><datetime dst='true'>20130917T143153,19+01</datetime></revised>
+<lastaccessed><datetime dst='true'>20130917T143153,20+01</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20130917T142950,47+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=jonathan/O=ibm</name></updatedby>
+<wassignedby><name>CN=jonathan/O=ibm</name></wassignedby>
+<item name='$TITLE' sign='true'><text>MainFrameset|MainFrameset</text></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$LANGUAGE'><text>en</text></item>
+<item name='$DesignerVersion'><text>7</text></item>
+<item name='$FrameSet' sign='true'>
+<rawitemdata type='1'>
+7/8YAAIACAAAAAAAAAAAAAAAAAAAAAAA8P8+AEQAAAABAAAAAAABAAEAAAAAAAUAAAAAAAUAAAAA
+AAEAAgAAAAAAAQAAAAAAAAADAAEAAQDXAAMAAQDw/0IAAAAAAAEAAAAAAAEAAQAAAAAABQAAAAAA
+BQAAAAAAAwABAAAAAAAFAAAAAAAAAAEANgADAAEAAQARAAMAAQDx/zQAEgAAAABAAQACAAMAAQAA
+AAAAAAAAAAAAAQAAAAAAAAABAP///wABAAAKAQAAAAAA9v8vAAAAAAADAAMADQAAAAAAAAAAAAAA
+AAAAAAAAAAAAAFRlbXBsYXRlIE5hbWU/8f9LABAAAAAAQAEAAgABAAEAAAAAAA4AAAAJAAEAAAAA
+AAAATm90ZXNOYXZpZ2F0b3JOb3Rlc1ZpZXcBAP///wABAAAKAQAAAAAAAPb/LgAAAAAAAwAHAAwA
+AAAAAAAAAAAAAAAAAAAAAAAAAABPdXRsaW5lIFBhZ2Xx/zwAEAAAAABAAQACAAEAAQAAAAAACAAA
+AAAAAQAAAAAAAABTd2l0Y2hlcgEA////AAEAAAoBAAAAAAD2/y0AAAAAAAMABwALAAAAAAAAAAAA
+AAAAAAAAAAAAAAAARGIgTG9jYXRpb24/8P8+AAAAAAABAAAAAAABAAEAAAAAAAUAAAAAAAUAAAAA
+AAIAAQAAAAAABQAAAAAAAAADAAEAAgAAAAMAAQDx/zQAAAAAAABAAQADAAEAAQAAAAAAAAAAAAAA
+AQAAAAAAAAABAP///wABAAAKAQAAAAAA9v8sAAAAAAADAAYACgAAAAAAAAAAAAAAAAAAAAAAAAAA
+AFZpZXcgRnJhbWXx/0AAAAAAAABAAQADAAEAAQAAAAAADAAAAAAAAQAAAAAAAABOb3Rlc1ByZXZp
+ZXcBAP///wABAAAKAQAAAAAA
+</rawitemdata></item>
+<item name='$Flags'><text>#34CQw</text></item></note>
+

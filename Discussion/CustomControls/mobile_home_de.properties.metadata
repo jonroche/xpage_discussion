@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="80257BE9004A1ADD" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="147e" sequence="4" unid="7F2601BB9E7D201E80257BE9004A210B">
+<created><datetime dst="true">20130917T142941,23+01</datetime></created>
+<modified><datetime dst="true">20130917T143158,62+01</datetime></modified>
+<revised><datetime dst="true">20130917T143158,61+01</datetime></revised>
+<lastaccessed><datetime dst="true">20130917T143158,62+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20130917T143000,43+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=jonathan/O=ibm</name></updatedby>
+<wassignedby><name>CN=jonathan/O=ibm</name></wassignedby>
+<item name="$Flags"><text>gC~4;2</text></item>
+<item name="$TITLE"><text>mobile_home_de.properties</text></item>
+
+
+<item name="$FileNames" sign="true"><text>mobile_home_de.properties</text></item></note>

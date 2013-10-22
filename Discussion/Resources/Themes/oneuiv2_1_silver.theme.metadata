@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="80257BE9004A1ADD" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="63a" sequence="10" unid="C46A1F0B4FB383C980257BE9004A1E7F">
+<created><datetime dst="true">20130917T142934,71+01</datetime></created>
+<modified><datetime dst="true">20130917T143149,19+01</datetime></modified>
+<revised><datetime dst="true">20130917T143149,18+01</datetime></revised>
+<lastaccessed><datetime dst="true">20130917T143149,19+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20130917T142944,35+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=jonathan/O=ibm</name></updatedby>
+<wassignedby><name>CN=jonathan/O=ibm</name></wassignedby>
+<item name="$Flags"><text>34567Cg~`</text></item>
+<item name="$TITLE"><text>oneuiv2_1_silver.theme</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>oneuiv2_1_silver.theme</text></item>
+<item name="$CSSFiles"><textlist><text>blue.css</text><text>blue_ie06.css</text><text>blue_ie78.css</text><text>commonRTL.css</text><text>pagerRTL.css</text><text>oneuiv2_1.css</text></textlist></item></note>
