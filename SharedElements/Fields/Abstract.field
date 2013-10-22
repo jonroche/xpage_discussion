@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='sharedfield' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='80257BE9004A1ADD'>
+<noteinfo noteid='61e' unid='10A4637B6C18639280257AC2006D9D36' sequence='6'>
+<created><datetime>20121126T195716,70+00</datetime></created>
+<modified><datetime dst='true'>20130917T143148,77+01</datetime></modified>
+<revised><datetime dst='true'>20130917T143148,76+01</datetime></revised>
+<lastaccessed><datetime dst='true'>20130917T143148,77+01</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20130917T142943,91+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=jonathan/O=ibm</name></updatedby>
+<wassignedby><name>CN=jonathan/O=ibm</name></wassignedby>
+<item name='$TITLE'><text>Abstract</text></item>
+<item name='$DesignerVersion'><text>7</text></item>
+<item name='$HTMLCode' sign='true'>
+<rawitemdata type='1'>
+</rawitemdata></item>
+<item name='$Info' sign='true'>
+<rawitemdata type='1'>
+hhgBAIAAAAAAgAAAAQABAP///wAQAAAA
+</rawitemdata></item>
+<item name='$Body' summary='true' sign='true'>
+<rawitemdata type='1'>
+gQKC/1IAAQAAAAAAAAAAAKAFAACgBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAABAAAAAJQHAAAAAAAAAAAAAAAAgwQBAIX/CAABAAAK3QYAAIr//v9QAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAACw/xQAAAAIAAAAAAAAAAAAAAAAAIr/UAKIAQAFAAAAAAAAAAAAAAEAAAokAgAA
+AAAAAAgAAAAAACQCAQAaAAkAX2VsbGlwc2lzAAEABAAgLi4uAwAHAAwABQAJMVQyUwABABoABwBf
+bGVuZ3RoAAAAAAAAAADAckADAAcADgAHAAkwUjFUMlMAAQAYAAYAX3JhbmdlAAAAAAAAAAAkQAMA
+BwAOAAcACTBSMVQyUwABADYACQBfYWJzdHJhY3QAAgBCAAAAAAAAAAUABwBfbGVuZ3RoAAEAAAAB
+AAQAQm9ked4EAwAHABYADwAJMFJSMVQyUzZTOFMxMFMABwBCADwAdG8gbWFrZSBzdXJlIHdlIGRv
+bid0IHRydW5jYXRlL2NsaXAgaW4gdGhlIG1pZGRsZSBvZiBhIHdvcmQsBwAMAAYACTBSUjFTBwA8
+ADYAZ2V0IHRoZSB0ZXh0IHVwIHRvIHRoZSBsYXN0IHdvcmQgYmVmb3JlIHRoZSBsYXN0IHNwYWNl
+BwAMAAUACTBSMVMABwAgABoAYW5kIGFwcGVuZCBlbGxpcHNpcyAnIC4uLicHAAwABQAJMFIxUwAA
+AHYABQAJAF9hYnN0cmFjdACmAQUABwBfbGVuZ3RoAAUABgBfcmFuZ2UjAgQADQKvAEIALAAFAAkA
+X2Fic3RyYWN0AAEAAQAgAKECBQAJAF9lbGxpcHNpcwAiAq4AFgAFAAkAX2Fic3RyYWN0AK4ABAC1
+AwMABwAqACMACTBSUjJUNlM3UzlTMTBTMTNSVDE3UzE5UzIwUzIyUlQyM1IAQWJzdHJhY3TeBgAA
+iv8=
+</rawitemdata></item>
+<item name='$Flags'><text/></item>
+<item name='$Fields'><text>Abstract</text></item></note>
+
