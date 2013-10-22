@@ -1,0 +1,6 @@
+config,true,true
+
+importandbuild,<LOCAL_REPO>\Discussion\.project,FileDiscussion
+clean
+
+exit
