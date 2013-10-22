@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='filter' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='80257BE9004A1ADD'>
+<noteinfo noteid='1b52' unid='393255CBD2AC0D1B85256598004604EF' sequence='4'>
+<created><datetime>19980126T074447,83-05</datetime></created>
+<modified><datetime dst='true'>20130917T143208,39+01</datetime></modified>
+<revised><datetime dst='true'>20130917T143208,38+01</datetime></revised>
+<lastaccessed><datetime dst='true'>20130917T143208,39+01</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20130917T143125,43+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=jonathan/O=ibm</name></updatedby>
+<item name='$AssistAction_Ex' sign='true'>
+<rawitemdata type='14'>
+gQI=
+</rawitemdata></item>
+<item name='$TITLE' sign='true'><text>(ProfileButton)</text></item>
+<item name='$LANGUAGE'><text>en</text></item>
+<item name='$Restricted' sign='true'><number>1</number></item>
+<item name='$AssistVersion'><datetime dst='true'>20130917T143157,01+01</datetime></item>
+<item name='$AssistTrigger'><text>4</text></item>
+<item name='$AssistAction' sign='true'>
+<rawitemdata type='10'>
+gQKE/3oBAAAAAHABcAEBACQABwBhYnJOYW1lAAIABQAAAAAAAAAFAAQAZnJvbbQCAwAHAA4ABwAJ
+MVMyUzZTAAEAMgAQAGFick5hbWVSZXBsU3BhY2UFAAcAYWJyTmFtZQABAAEAIAABAAEAXwCEAwMA
+BwASAAsACTBSMVMyUzZTOFMAAQAuAAMAS2V5AAUAEABhYnJOYW1lUmVwbFNwYWNlAQABAC8AAQAC
+AF9fhAMDAAcAEgALAAkwUjFTMlM2UzhTAAEAKAALAERpYWxvZ1RpdGxlAAEAEABQZXJzb25hbCBQ
+cm9maWxlAwAHAA4ACAAJMFJSMVMyUwgAKgABAAgAVGVtcFZhcnMBAAoAUHJvZmlsZUtleQUAAwBL
+ZXkA+AMDAAcADgAHAAkwUjRTNlMACAAsAAIAog8AAAAAAAABABUAKERpc3BsYXlQcm9maWxlQWdl
+bnQpAO0CAwAHAAwABQAJMFI0UwAAAAgAZgADAAcACgAEAAlMMVM=
+</rawitemdata></item>
+<item name='$AssistAction_Ex' sign='true'>
+<rawitemdata type='14'>
+gQI=
+</rawitemdata></item>
+<item name='$AssistType' sign='true'><number>65412</number></item>
+<item name='$AssistFlags' sign='true'><text>sHE</text></item>
+<item name='$AssistInfo' sign='true'>
+<rawitemdata type='11'>
+AQAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+</rawitemdata></item>
+<item name='$AssistQuery' sign='true'>
+<rawitemdata type='f'>
+gQYAAAAA
+</rawitemdata></item>
+<item name='$AssistLastRun' sign='true'>
+<rawitemdata type='400'>
+AAAAAAAAAAA=
+</rawitemdata></item>
+<item name='$AssistDocCount' sign='true'><number>0</number></item>
+<item name='$AssistRunInfo' summary='true'>
+<rawitemdata type='3'>
+BgABAAAACAC2GwAAAAAAAAEAAAAAAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$Flags'><text>3f</text></item>
+<item name='$FlagsExt' sign='true'><text/></item></note>
+
